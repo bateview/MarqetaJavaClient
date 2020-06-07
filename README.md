@@ -1,3 +1,5 @@
+# Please follow https://jitpack.io/ to install this package. 
+
 # swagger-java-client
 
 
